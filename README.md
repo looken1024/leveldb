@@ -4,7 +4,7 @@
 
 ## 编译
 
-git clone https://github.com/google/leveldb.git
+git clone --recurse-submodules https://github.com/google/leveldb.git
 
 cd leveldb
 
